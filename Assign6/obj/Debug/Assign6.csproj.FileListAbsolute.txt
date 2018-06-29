@@ -1,0 +1,10 @@
+c:\users\jordan\source\repos\Assign6\Assign6\bin\Debug\Assign6.exe.config
+c:\users\jordan\source\repos\Assign6\Assign6\bin\Debug\Assign6.exe
+c:\users\jordan\source\repos\Assign6\Assign6\bin\Debug\Assign6.pdb
+c:\users\jordan\source\repos\Assign6\Assign6\obj\Debug\Assign6.csprojResolveAssemblyReference.cache
+c:\users\jordan\source\repos\Assign6\Assign6\obj\Debug\Assign6.Form1.resources
+c:\users\jordan\source\repos\Assign6\Assign6\obj\Debug\Assign6.Properties.Resources.resources
+c:\users\jordan\source\repos\Assign6\Assign6\obj\Debug\Assign6.csproj.GenerateResource.Cache
+c:\users\jordan\source\repos\Assign6\Assign6\obj\Debug\Assign6.csproj.CoreCompileInputs.cache
+c:\users\jordan\source\repos\Assign6\Assign6\obj\Debug\Assign6.exe
+c:\users\jordan\source\repos\Assign6\Assign6\obj\Debug\Assign6.pdb
